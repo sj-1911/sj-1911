@@ -15,19 +15,19 @@ Hello! My name is Spencer Jackson, and I’m currently pursuing a **Bachelor of 
 ## 🏫 Education  
 
 ### **Florida Atlantic University**  
-*Expected Graduation: May 2025*  
+*Graduation: May 2025*  
 - Bachelor of Science in **Data Science**  
 - Minor in **Artificial Intelligence**  
 
-### **Broward College**  
-*Graduated: 2017*  
-- Associate of Arts, **General Engineering**  
+### **Northwest Florida State College**  
+*2019 - 2022*  
+- N/A  
 
 ---
 
 ## 📈 Projects [WIP]  
 
-- **Data Visualization**: Within the reposotory, you can view the code that discets data from the FDOT and the   
+- **Data Visualization**: Within the reposotory, you can view the code that discets data from the FDOT
 - **Project Name**: [Brief description, technologies used, and link to the repository]  
 
 ---
