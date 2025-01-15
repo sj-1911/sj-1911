@@ -25,10 +25,38 @@
 
 ---
 
-## 📈 Projects [WIP]  
+# 📈 Projects Overview
 
-- **Data Visualization**: Within the reposotory, you can view the code that discets data from the FDOT
-- **Project Name**: [Brief description, technologies used, and link to the repository]  
+This repository contains multiple projects focused on data analysis, machine learning, and web development. Below is a brief summary of each project:
+
+---
+
+## 🚀 Projects
+
+### 1. **Fitness Tracker Web Application**
+   A web-based fitness tracker that helps users monitor their daily fitness activities, including steps, calories, and water intake. It also features an activity manager where users can add and manage custom activities.
+
+---
+
+### 2. **FDOT Crash Data Analysis**  
+   A data visualization project analyzing crash data from the Florida Department of Transportation (FDOT). It includes statistical analysis and visual comparisons of accident trends based on speed limits.
+
+---
+
+### 3. **Mental Health Care Trends Prediction**  
+   A machine learning project predicting mental health care usage trends using various regression models, including Random Forest, Linear Regression, Decision Tree, and K-Nearest Neighbors.
+
+---
+
+### 4. **Spotify ML Model**  
+   A machine learning project that uses a neural network to classify and predict outcomes based on preprocessed Spotify data. It includes hyperparameter tuning and model evaluation.
+
+---
+
+## 🛠️ Libraries Used
+
+The projects in this repository utilize various Python libraries and tools, including **pandas**, **NumPy**, **scikit-learn**, **matplotlib**, **seaborn**, **tabulate**, **TensorFlow**, and **Keras**.
+
 
 ---
 
