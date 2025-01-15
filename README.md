@@ -21,7 +21,7 @@
 
 ### **Northwest Florida State College**  
 *2019 - 2022*  
-- N/A  
+- Dual Enrollment Program 
 
 ---
 
