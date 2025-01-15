@@ -34,10 +34,8 @@
 
 ## 📖 About Me  
 
-I am passionate about technology and problem-solving, with extensive hands-on experience across various domains. I enjoy exploring advanced technologies, including data science and machine learning, and am fascinated by the continuously evolving tech landscape.  
+  Originally from Destin, FL, and now based in Boca Raton I’m currently pursuing a Bachelors of Science in Data Analytics with a minor in artificial intelligence and Deep Learning at Florida Atlantic University. I’ve gained experience in tech repair, customer service, and team management through roles with U Break I Fix and Redfish Rentals. Practical experience with Python, deep learning, and project management, allowing for a better understanding of artificial intelligence.
 
-In addition to my technical expertise, my experience in the hospitality industry has honed my **communication skills**, enabling me to effectively collaborate with diverse teams.  
-
-Feel free to explore my projects, and let’s connect! 😊  
+  I am passionate about technology and problem-solving, with extensive hands-on experience across various domains. I enjoy exploring advanced technologies, including data science and machine learning, and am fascinated by the continuously evolving tech landscape.  
 
 ---
