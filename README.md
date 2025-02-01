@@ -1,4 +1,4 @@
-# 👋 Hi There  
+# About
 
 My name is Spencer Jackson, and I’m currently pursuing a **Bachelor of Science in Data Science** with a minor in **Artificial Intelligence** at Florida Atlantic University. I’m passionate about leveraging technology to solve complex problems and am eager to connect and collaborate.
 
