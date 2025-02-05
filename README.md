@@ -6,7 +6,7 @@ My name is Spencer Jackson, and I’m currently pursuing a **Bachelor of Science
 
 ## 🔧 Skills  
 
-- **Programming Languages**: Python, MySQL, HTML  
+- **Programming Languages**: Python, MySQL, HTML/ CSS, R Programming,   
 - **Technologies & Tools**: Programming, Web Dev, Deep Learning, Neural Networks, Power BI, AutoCAD, SolidWorks, Microsoft Office Suite (Word, Excel, PowerPoint)  
 
 ---
