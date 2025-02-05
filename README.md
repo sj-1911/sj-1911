@@ -65,7 +65,7 @@ The projects in this repository utilize various libraries and frameworks, includ
 
 ---
 
-## 📖 About Me  
+## 📖 Biography 
 
 Originally from Destin, FL, and now based in Boca Raton, I’m currently pursuing a **Bachelor of Science in Data Science** with a minor in **Artificial Intelligence** at Florida Atlantic University. Along the way, I’ve gained experience in tech repair, customer service, and business logistics.  
 
